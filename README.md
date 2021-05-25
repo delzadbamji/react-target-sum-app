@@ -1,4 +1,4 @@
-#React-target-sum
+# React-target-sum
 
 A simple game with simple rules.
 
